@@ -7,4 +7,4 @@ Afraid that you might forget to complete?
 Well! You have landed at the right place.
 Note down your tasks and set your priorities.
 
-Visit: http://self-tasks.000webhostapp.com/
+Visit: https://selftasks.com/
